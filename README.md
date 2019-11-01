@@ -1,5 +1,5 @@
-# Universal-Pay-JAVA-SDK
-This  library provides integration access to the Universal Pay gateway.
+# UniversalPay-JAVA-SDK
+This  library provides integration access to the UniversalPay gateway.
 
 ## Quick Start
 
@@ -7,11 +7,11 @@ Payments Java SDK is a small library/sample of Java code that you can use to qui
 
 ## Before you Begin
 
-Before using the Payments Java SDK you should be familiar with the contents of the [API Specification for Merchants](docs/API-Specification.pdf) document as it describes all fields and their meaning within a given payment transaction.
+Before using the UniversalPay Java SDK you should be familiar with the contents of the [API Specification for Merchants](docs/API-Specification.pdf) document as it describes all fields and their meaning within a given payment transaction.
 
 ## Setup your Project
 
-Payments Java SDK is delivered as Maven project. The possible profiles:
+The Java SDK is delivered as Maven project. The possible profiles:
 * "batch" creates a fat JAR (for command line usage)
 * "webapp" creates a deployable WAR file (sample servlets)
 
