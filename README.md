@@ -1,5 +1,5 @@
-# Global-Turnkey-JAVA-SDK
-This  library provides integration access to the Turnkey Global Api.
+# Universal-Pay-JAVA-SDK
+This  library provides integration access to the Universal Pay gateway.
 
 ## Quick Start
 
