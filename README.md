@@ -3,7 +3,7 @@ This  library provides integration access to the UniversalPay gateway.
 
 ## Quick Start
 
-Payments Java SDK is a small library/sample of Java code that you can use to quickly integrate with the Payments system and submit transactions, check their status and more.
+UniversalPay Java SDK is a small library/sample of Java code that you can use to quickly integrate with the Payments system and submit transactions, check their status and more.
 
 ## Before you Begin
 
